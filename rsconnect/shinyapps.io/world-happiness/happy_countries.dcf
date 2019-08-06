@@ -1,0 +1,10 @@
+name: happy_countries
+title:
+username:
+account: world-happiness
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 507916
+bundleId: 1637991
+url: https://world-happiness.shinyapps.io/happy_countries/
+when: 1539294705.15747
